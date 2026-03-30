@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Salastin Sanal ⚡️ 
 [![GitHub](https://img.shields.io/github/license/salastin2804/portfolio?color=blue)](https://github.com/salastin2804/portfolio/blob/master/LICENSE.md)
 ![GitHub stars](https://img.shields.io/github/stars/salastin2804/portfolio)
@@ -100,3 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments 🎁
 
 Thanks to the developer community for inspiration and learning resources!
+=======
+# Salastin-Portfolio_w
+Personal portfolio showcasing my projects, skills, and experience as a Python Full Stack Developer.
+>>>>>>> 1f3a1e70276823859066eea1776c7c0233f7a8ff
